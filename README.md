@@ -1,4 +1,4 @@
-Hi 👋 My name is Sinaye Mbele
+Hi, My name is Sinaye Mbele
 ==============================
 
 👋 Full-time tester | Part-time student at Codespace Academy
