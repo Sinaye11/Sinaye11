@@ -5,7 +5,7 @@ Hi, My name is Sinaye Mbele
 ------------------------------------------------------------
 
 🎓 | Learning software development <br>
-🚀 | Proficient in HTML5, CSS, Tailwind, JavaScript <br>
+🚀 | Proficient in HTML5, CSS, Tailwind and JavaScript <br>
  ⚠️ | Also experienced in Java and C# <br>
  🔍| Passionate about quality assurance and coding craftsmanship  <br>
 💻 | Let's collaborate and build amazing things together! 🌟
