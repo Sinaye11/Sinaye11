@@ -1,7 +1,7 @@
 Hi, My name is Sinaye Mbele
 ==============================
 
-👋 Full-time tester | Part-time student at Codespace Academy
+👋 Quality Assurance | Part-time student at Codespace Academy
 ------------------------------------------------------------
 
 🎓 | Learning software development <br>
